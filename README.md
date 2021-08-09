@@ -7,6 +7,9 @@
 
 > Based from @ItsVixano 
 
+## Screenshot Preview
+<img alt="undefined" src="img/vspod.png" />
+
 ## For setup it
 
 1. Fork this repo

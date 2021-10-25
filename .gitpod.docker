@@ -1,5 +1,5 @@
 # From my docker
-FROM vcyzteen/bakaburn:latest
+FROM vcyzteen/nekopunchy:poi
 USER root
 
 # Label
